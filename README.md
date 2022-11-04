@@ -1,2 +1,0 @@
-# Doulingo-Hack
-Doulingo-Plus
